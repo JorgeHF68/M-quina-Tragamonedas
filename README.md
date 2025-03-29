@@ -8,19 +8,17 @@ Cuenta con una interfaz de consola y una GUI, además de soporte para "concurren
 Características
 - Implementación del "patrón MVC".
 - Uso de "hilos (Threads)"para el giro de los rodillos.
-- Control de acceso a recursos compartidos con "synchronized".
+- Sicronización.
 - Interfaces de usuario en "consola y GUI".
 
 Cómo ejecutar
 1. Clona el repositorio:
    git clone https://github.com/tu-usuario/tu-repo.git
 
-
-
-Compila los archivos Java:
+2. Compila los archivos Java:
 javac -d bin src/**/*.java
 
-Ejecuta el juego:
+3. Ejecuta el juego:
 java -cp bin Main
 
 Estructura del Proyecto
@@ -40,6 +38,5 @@ Estructura del Proyecto
  
 Tecnologías usadas
 Java
-
 Swing (para GUI)
 Manejo de Hilos (Threads)
