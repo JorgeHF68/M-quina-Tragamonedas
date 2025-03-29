@@ -24,7 +24,7 @@ java -cp bin Main
 
 Estructura del Proyecto
 
-📂 src
+ 📂 src
  ├── 📂 model
  │   ├── Player.java
  │   ├── Bet.java
@@ -36,6 +36,7 @@ Estructura del Proyecto
  │   ├── GameController.java
  ├── Main.java
 
+ 
 Tecnologías usadas
 Java
 
