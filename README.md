@@ -1,6 +1,7 @@
 Máquina tragamonedas
 
 Descripción:
+
 Este es un juego de tragamonedas desarrollado en Java con el patrón "MVC".  
 Cuenta con una interfaz de consola y una GUI, además de soporte para "concurrencia" mediante hilos.
 
